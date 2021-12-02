@@ -4,27 +4,13 @@ body {
   line-height: 1;
 }
 
-textarea {
+textarea{
   background: transparent;
-  border: 2px solid black;
+  border: none;
   resize: none;
   color: #000000;
   border-left: 1px solid black;
   padding: 10px;
-}
-
-input {
-  margin: 8px;
-}
-
-label {
-  margin: 20px;
-}
-
-.textbox {
-  height:200px;
-  font-size:14pt;
-  width: 80%;
 }
 
 .jumbotron {
